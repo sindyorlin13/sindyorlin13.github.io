@@ -16,7 +16,7 @@ let a = {
 }
 
 let m = 0;
-if(a[0] == null)a[0] = "Athallah Dzaki";
+if(a[0] == null)a[0] = "Sindy Orlin";
 if(a[1] == null)alert("Need Parameter To"), m =1;
 if(a[2] == null)alert("Need Parameter bln"), m=1;
 if(a[3] == null)alert("Need Parameter tgl"), m=1;
@@ -154,14 +154,14 @@ const _slideLima = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", `Saya ${a[0]} pada hari ${timestring} dengan sepenuh hati mengucapkan, ~ `, "<b>Selamat Ulang Tahun</b>", " ", `Kepada ${a[1]}, semoga kamu panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya`, , " ", "Wassalamualakaikum Wr. Wb", " ", "- "+a[0]],
+  strings: ["Assalamualaikum W. W.", " ", "Halo, Akbar!", "Pada hari Jumat, 24 Maret 2023, aku pengen ngucapin dengan sepenuh hati", "<b>Selamat Ulang Tahun</b>", " ", "Semoga kamu panjang umur, diberi kesehatan jiwa raga, bertambah ilmu serta keberkahannya dan diberikan kebahagiaan pada hari ini, esok, dan seterusnya. Aamiin.", " ", "Semoga di umurmu yang baru ini, kamu jadi lebih mengerti arti dari bersyukur akan kehidupan yang telah Allah berikan kepadamu. Jangan lupa untuk selalu bersyukur, ya!!", " ", "Sekian dulu surat di halaman 1 ini, nextnya tunggu bentar yaa!", " ", "- "+a[0]],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii Sayang!!", "Happy Birthday ya..", " ", "Ciie udah bertambah tua aja, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
+  strings: ["Happy Birthday, ya..", " ", "Cie udah 17 tahun. Udah tua aja nih, Bapak Akbar.", "Semoga di umurmu yang (nggak) muda ini, kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih-lebih lah pokoknya. Sama yang terpenting lebih bisa jadi diri sendiri dalam artian lebih bisa ngehargai diri sendiri apa adanya.", " ", "Ya sekali lagi selamat ulang tahun ya.", "Selamat berumur 17 tahun, yang mana banyak orang bilang kalau umur 17 adalah umur transisi dari remaja ke fase dewasa. Pasti hidupmu kedepannya akan semakin berat daripada sekarang. Tetapi perlu diketahui kalau hidup tidak akan semakin mudah, tapi kamulah yang harus menjadi semakin kuat.", " ", "Pokoknya kalau punya masalah berat, jangan lupa kalau kamu punya Allah Yang Maha Besar ya Kak!", " ", "- "+a[0]],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
