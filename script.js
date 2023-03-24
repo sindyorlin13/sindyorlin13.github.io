@@ -169,7 +169,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["Terimakasih."],
+  strings: ["Sekian, terima kasiih"],
   startDelay: 2000,
   speed: 150,
   loop: false,
